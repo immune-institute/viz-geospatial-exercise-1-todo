@@ -1,2 +1,3 @@
-# viz-geospatial-exercise-1-todo
-Geospatial exercise 1
+## VISUALIZATION GEOSPATIAL EXERCISE
+
+Complete notebook exercises
